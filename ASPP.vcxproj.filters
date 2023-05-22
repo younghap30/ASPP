@@ -36,5 +36,8 @@
     <ClCompile Include="6.6.cpp">
       <Filter>소스 파일\6 무식하게 풀기</Filter>
     </ClCompile>
+    <ClCompile Include="6.7.cpp">
+      <Filter>소스 파일\6 무식하게 풀기</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
