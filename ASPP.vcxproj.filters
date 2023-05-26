@@ -16,6 +16,9 @@
     <Filter Include="소스 파일\6 무식하게 풀기">
       <UniqueIdentifier>{46acedac-58f3-4ed2-8e04-dff436f563de}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\7 분할 정복">
+      <UniqueIdentifier>{d039d99d-9709-45ed-9620-52c23b4d3c00}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="6.1.cpp">
@@ -41,6 +44,9 @@
     </ClCompile>
     <ClCompile Include="6.8.cpp">
       <Filter>소스 파일\6 무식하게 풀기</Filter>
+    </ClCompile>
+    <ClCompile Include="7.1.cpp">
+      <Filter>소스 파일\7 분할 정복</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
